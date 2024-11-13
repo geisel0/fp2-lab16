@@ -1,6 +1,6 @@
-import java.util.*;
+import java.util.Random;
 
-public class Mapa {
+class Mapa {
     private String entorno;
     private Ejercito[][] mapa;
 
