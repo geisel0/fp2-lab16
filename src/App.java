@@ -2,6 +2,7 @@ import java.util.*;
 
 public class App {
     public static void main(String[] args) {
+        //ultimo commit
         Scanner scanner = new Scanner(System.in);
         System.out.println("Seleccione el primer reino: Inglaterra, Francia, Castilla-Aragon, Moros, Sacro Imperio Romano-Germánico");
         String nombreReino1 = scanner.nextLine();
